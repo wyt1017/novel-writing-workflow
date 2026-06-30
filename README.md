@@ -116,5 +116,3 @@ W01   W02   W03   W04   W05   W06   W07   W10   W13   W17   W20   W23
 ## 灵感来源
 
 - [noveltool](https://github.com/wyt1017/noveltool)
-- [Humanizer-zh](https://github.com/op7418/Humanizer-zh)
-- [stop-slop](https://github.com/hardikpandya/stop-slop)
