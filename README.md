@@ -93,13 +93,13 @@ W01   W02   W03   W04   W05   W06   W07   W10   W13   W17   W20   W23
 
 1. 复制本仓库
 2. 打开 `novel-writing-workflow-v2.md`
-3. 按节点顺序执行，每完成一个节点确认后再进入下一步
+3. 按四阶段批处理执行（立项组 W01-W04 → 设定组 W05-W12 → 大纲组 W13-W16 → 写作组 W17-W24），每组一次确认，详见 `novel-writing-workflow-v2.md`
 
 ### 配合 Skill 使用
 
 推荐使用配套的 WorkBuddy Skill：
-- [`novel-writing`](.trae/skills/novel-writing/SKILL.md) — 创作全流程入口
-- [`novel-de-ai`](.trae/skills/novel-de-ai/SKILL.md) — 去 AI 味检测
+- [`novel-writing`](.workbuddy/skills/novel-writing/SKILL.md) — 创作全流程入口（流畅模式 v2.1）
+- [`novel-de-ai`](.workbuddy/skills/novel-de-ai/SKILL.md) — 去 AI 味检测
 
 ## 示例产出
 
